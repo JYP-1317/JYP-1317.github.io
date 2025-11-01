@@ -215,9 +215,10 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
-        padding: 20px;
+        border-radius: 15px;   // ✅ 살짝 둥근 사각형!
+        width: 160px;
+        height: 160px;
+        object-fit: cover;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
