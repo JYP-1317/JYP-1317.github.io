@@ -1,6 +1,9 @@
 ---
 layout: homepage
 ---
+## Img
+
+<img src="assets/img/취업사진_파란배경.jpg" alt="My Photo" style="width: 160px; border-radius: 50%;">
 
 ## About Me
 
