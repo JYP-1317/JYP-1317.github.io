@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-Hello!👋 My name is Junyoung Park, and I am a [Post.Doc. researcher] in the Department of Electronic Engineering at Pusan National University.
-I am working with [Prof.Ilkyu EOM] at [ISPL (Image Signal Processing Lab)], and I have a M.S and Ph.D. in [image processing] and [Artificial Intelligence] at Pusan National University.
+Hello!👋 My name is Junyoung Park, and I am a *Post.Doc. researcher* in the Department of Electronic Engineering at *Pusan National University*.
+I am working with *Prof.Ilkyu EOM* at *ISPL (Image Signal Processing Lab)*, and I have a M.S and Ph.D. in **image processing** and **Artificial Intelligence** at Pusan National University.
 
 My research interests are **image processing**, **computer vision**, **machine/deep learning**, and **artificial intelligence**.
 
