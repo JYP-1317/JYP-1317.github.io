@@ -28,6 +28,8 @@ Trough my work, I want to contribute to showing people a brighter 👀, brighter
 - **[Sep. 2025]** Our paper about contrast-aware is submitted to IEEE Access.
 - **[Apr. 2025]** Our paper about Progressiv learning is submmited to IEEE TIP.
 
+{% include_relative _includes/services.md %}
+
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
