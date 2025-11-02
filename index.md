@@ -15,7 +15,7 @@ Additionally, I am currently conducting research in the field of deepfake detect
 Trough my work, I want to contribute to showing people a brighter 👀, brighter world 🌏 based on new technology.
 
 ## Research Interests
-
+- **Image Processing** low-light image enhancement, underwater image enhancement, dehaze, image forensic(Deepfake)
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
