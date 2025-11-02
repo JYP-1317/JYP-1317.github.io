@@ -3,7 +3,7 @@ main:
   - title: "Contrast-aware Low-light Image Enhancement Network"
     authors: <strong>Junyoung Park</strong>, IlKyu Eom
     journal_short: Access
-    journal: <strong>IEEE Access</strong>
+    journal: <strong>IEEE Access, Under review</strong>
     acmdl: 
     pdf: 
     arxiv:
@@ -12,7 +12,66 @@ main:
     toappear: 
     image: assets/img/access_2025.PNG
 
+  - title: "Low-light Image Enhancement Network using Informative Feature Stretch and Attention"
+    authors: Seong-Min Cheon, <strong>Junyoung Park</strong>, IlKyu Eom
+    journal_short: Electronics
+    journal: <strong>MDPI Electronics</strong>
+    acmdl: 
+    pdf: 
+    arxiv:
+    code: 
+    page:
+    toappear: 
+    image: assets/img/electronics_2024.PNG
 
+  - title: "Low-light Image Enhancement using Gamma Correction Prior in Mixed Color Spaces"
+    authors: Jongju Jeon, <strong>Junyoung Park</strong>, IlKyu Eom
+    journal_short: PR
+    journal: <strong>Pattern Recongnition</strong>
+    acmdl: 
+    pdf: 
+    arxiv:
+    code: 
+    page:
+    toappear: 
+    image: assets/img/PR_2024.PNG
+  
+  - title: "ULBPNet : Low-light Image Enhancement using U-shaped Lightening Back-projection"
+    authors: <strong>Junyoung Park</strong>, Cheolwoo Park, IlKyu Eom
+    journal_short: KBS
+    journal: <strong>Knowledge-Based Systems</strong>
+    acmdl: 
+    pdf: 
+    arxiv:
+    code: 
+    page:
+    toappear: 
+    image: assets/img/KBS_2023.PNG
+
+  - title: "CNN-based Copy-move Forgery Detection using Rotation-invariant Wavelet Feature"
+    authors: <strong>Junyoung Park</strong>, Sangin Lee, IlKyu Eom
+    journal_short: Access
+    journal: <strong>IEEE Access</strong>
+    acmdl: 
+    pdf: 
+    arxiv:
+    code: 
+    page:
+    toappear: 
+    image: assets/img/access_2022.PNG
+
+  - title: "Copy-move Forgery Detection using SIFT and Reduced Local Binary Pattern Histogram"
+    authors: <strong>Junyoung Park</strong>, Taean Kang, IlKyu Eom
+    journal_short: Symmetry
+    journal: <strong>MDPI Symmetry</strong>
+    acmdl: 
+    pdf: 
+    arxiv:
+    code: 
+    page:
+    toappear: 
+    image: assets/img/symmetry_2020.PNG
+    
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   #   conference_short: CVPR
