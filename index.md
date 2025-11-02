@@ -40,5 +40,4 @@ Trough my work, I want to contribute to showing people a brighter 👀, brighter
 
 ## Publications
 {% include_relative _includes/publications.md %}
-{% include_relative _includes/publications.md %}
-{% include_relative _includes/demos.md %}
+
