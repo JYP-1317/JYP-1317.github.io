@@ -4,7 +4,7 @@
 
 <h3>Domestic Journal papers</h3>
 
-{% for link in site.data.preprints.main %}
+{% for link in site.data.domestic.main %}
 
 <li>
 <div class="pub-row">
