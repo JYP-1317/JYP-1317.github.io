@@ -2,7 +2,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<h3>Domestic journal papers</h3>
+<h3>Domestic Journal papers</h3>
 
 {% for link in site.data.preprints.main %}
 
