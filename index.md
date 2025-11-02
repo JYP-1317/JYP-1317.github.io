@@ -15,16 +15,18 @@ Additionally, I am currently conducting research in the field of deepfake detect
 Trough my work, I want to contribute to showing people a brighter 👀, brighter world 🌏 based on new technology.
 
 ## Research Interests
-- **Image Processing** low-light image enhancement, underwater image enhancement, dehaze, image forensic(Deepfake)
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **[Image Processing]:** **image restoration** low-light image enhancement, underwater image enhancement, dehaze
+                          **image forensic** super resolution, copy-move detection, deepfake detection 
+- **[Computer Vision]:** image recognition, image segmention, SIFT
+- **[Machine Learning]:** knowledge based-learning, transfer learning
+- **[Artificial Intelligence]:** Transformer, Gen AI 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2025]** Our paper about low-light with LSTM is submitted to EAAI.
+- **[Oct. 2025]** Our paper about low-light wiht Frequency Attention(FCA) is submitted to PR!
+- **[Sep. 2025]** Our paper about contrast-aware is submitted to IEEE Access.
+- **[Apr. 2025]** Our paper about Progressiv learning is submmited to TIP.
 
 {% include_relative _includes/publications.md %}
 
