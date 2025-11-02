@@ -13,7 +13,7 @@
 <ul style="margin:0 0 20px;">
   <li>
     <span style="color:#595959;">[2023–2025]</span>
-    <strong>Development of a Knowledge-driven Image Enhancement Network Robust to Adverse Visual Conditions</strong><br>
+    <strong>Development of a Knowledge-driven Image Enhancement Network to Adverse Visual Conditions</strong><br>
     National Research Foundation of Korea (NRF)
   </li>
   <li>
