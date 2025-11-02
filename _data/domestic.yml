@@ -1,0 +1,23 @@
+main:
+
+  - title: "Dual Branched Copy-move Forgery Detection Network using Rotation Invariant Energy in Wavelet Domain"
+    authors: <strong>Junyoung Park</strong>, Sangin Lee, Ilkyu Eom
+    domestic_short: IEMEK
+    domestic: The Journal of Embedded Systems and Applications
+    pdf: 
+    arxiv:
+    video: 
+    code:
+    page: 
+    image: assets/img/iemek_2022.png
+
+  - title: "Performance improvement of SIFT-based copy-move forgery detection using CSLBP descriptor"
+    authors: Taean Kang, <strong>Junyoung Park</strong>, Ilkyu Eom
+    domestic_short: IEIE
+    domestic: The Journal of Institute of Electronics and Information Engineers
+    pdf: 
+    arxiv:
+    video: 
+    code:
+    page: 
+    image: assets/img/ieie_2020.png
