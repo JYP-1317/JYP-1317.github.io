@@ -1,3 +1,5 @@
+<h2 id="Projects" style="margin: 2px 0px -15px;">Publications</h2>
+
 <h4 style="margin:0 10px 0;">Principal Investigator (Partner Institution)</h4>
 <ul style="margin:0 0 5px;">
   <li>
