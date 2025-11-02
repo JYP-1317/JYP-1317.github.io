@@ -34,8 +34,6 @@ Trough my work, I want to contribute to showing people a brighter 👀, brighter
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/publications.md %}
-
 ---
 
 ## Publications
