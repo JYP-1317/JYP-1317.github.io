@@ -9,7 +9,7 @@ main:
     video: 
     code:
     page: 
-    image: assets/img/iemek_2022.png
+    image: assets/img/iemek_2022.PNG
 
   - title: "Performance improvement of SIFT-based copy-move forgery detection using CSLBP descriptor"
     authors: Taean Kang, <strong>Junyoung Park</strong>, Ilkyu Eom
@@ -20,4 +20,4 @@ main:
     video: 
     code:
     page: 
-    image: assets/img/ieie_2020.png
+    image: assets/img/ieie_2020.PNG
