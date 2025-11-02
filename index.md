@@ -16,7 +16,7 @@ Trough my work, I want to contribute to showing people a brighter 👀, brighter
 
 ## Research Interests
 - **[Image Processing]:** **image restoration** low-light image enhancement, underwater image enhancement, dehaze
-- **image forensic** super resolution, copy-move detection, deepfake detection 
+                          **image forensic** super resolution, copy-move detection, deepfake detection 
 - **[Computer Vision]:** image recognition, image segmention, SIFT
 - **[Machine Learning]:** knowledge based-learning, transfer learning
 - **[Artificial Intelligence]:** Transformer, Gen AI 
