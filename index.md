@@ -14,12 +14,16 @@ I am especially focused on **post-processing that enhances images**, **enhanceme
 Additionally, I am currently conducting research in the field of **deepfake detection through generative AI**, and I am also interested in using **domain adaptation** technology to enable AI to produce results regardless of the domain of images. 
 Trough my work, I want to contribute to showing people a brighter 👀, brighter world 🌏 based on new technology.
 
+---
+
 ## Research Interests
 - **[Image Processing]:** **image restoration** low-light image enhancement, underwater image enhancement, dehaze
    <span style="display:inline-block; width:130px;"></span>**image forensic** super resolution, copy-move detection, deepfake detection 
 - **[Computer Vision]:** image recognition, image segmention, SIFT
 - **[Machine Learning]:** knowledge based-learning, transfer learning
 - **[Artificial Intelligence]:** Transformer, Gen AI 
+
+---
 
 ## News
 
@@ -32,4 +36,9 @@ Trough my work, I want to contribute to showing people a brighter 👀, brighter
 
 {% include_relative _includes/publications.md %}
 
+---
 
+## Publications
+{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %}
+{% include_relative _includes/demos.md %}
