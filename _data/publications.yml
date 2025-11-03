@@ -29,7 +29,7 @@ main:
     journal_short: PR
     journal: <strong>Pattern Recongnition</strong>
     acmdl: 
-    pdf: 
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320323006994 
     arxiv:
     code: 
     page:
@@ -41,7 +41,7 @@ main:
     journal_short: KBS
     journal: <strong>Knowledge-Based Systems</strong>
     acmdl: 
-    pdf: 
+    pdf: https://www.sciencedirect.com/science/article/pii/S0950705123008493 
     arxiv:
     code: 
     page:
