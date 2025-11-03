@@ -17,7 +17,7 @@ main:
     journal_short: Electronics
     journal: <strong>MDPI Electronics</strong>
     acmdl: 
-    pdf: 
+    pdf: https://www.mdpi.com/2079-9292/13/19/3883
     arxiv:
     code: 
     page:
@@ -53,7 +53,7 @@ main:
     journal_short: Access
     journal: <strong>IEEE Access</strong>
     acmdl: 
-    pdf: 
+    pdf: https://ieeexplore.ieee.org/abstract/document/9911656/
     arxiv:
     code: 
     page:
@@ -65,7 +65,7 @@ main:
     journal_short: Symmetry
     journal: <strong>MDPI Symmetry</strong>
     acmdl: 
-    pdf: 
+    pdf: https://www.mdpi.com/2073-8994/12/4/492
     arxiv:
     code: 
     page:
