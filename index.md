@@ -27,9 +27,9 @@ Trough my work, I want to contribute to showing people a brighter 👀, brighter
 
 ## News
 
+- **[Nov. 2025]** Our paper about contrast-aware is accepted to IEEE Access.
 - **[Oct. 2025]** Our paper about low-light with LSTM is submitted to EAAI.
 - **[Oct. 2025]** Our paper about low-light wiht Frequency Attention(FCA) is submitted to PR.
-- **[Sep. 2025]** Our paper about contrast-aware is submitted to IEEE Access.
 - **[Apr. 2025]** Our paper about Progressiv learning is submmited to IEEE TIP!
 
 ---
