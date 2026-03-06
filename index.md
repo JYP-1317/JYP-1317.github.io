@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello!👋 My name is Junyoung Park, and I am a *researcher* in the *Electronixs and Telecommunications Research Institution(ETRI)*.
+Hello!👋 My name is Junyoung Park, and I am a *researcher* in the *Electronics and Telecommunications Research Institution(ETRI)*.
 I worked with *Prof.Ilkyu EOM* at *[ISPL (Image Signal Processing Lab)](https://sites.google.com/view/ispl-pnu/)*, and I have a M.S and Ph.D. in **image processing** and **Artificial Intelligence** at Pusan National University.
 
 My research interests are **image processing**, **computer vision**, **machine/deep learning**, and **artificial intelligence**.
