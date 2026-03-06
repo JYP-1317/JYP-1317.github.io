@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-Hello!👋 My name is Junyoung Park, and I am a *Post.Doc. researcher* in the Department of Electronic Engineering at *Pusan National University*.
-I am working with *Prof.Ilkyu EOM* at *[ISPL (Image Signal Processing Lab)](https://sites.google.com/view/ispl-pnu/)*, and I have a M.S and Ph.D. in **image processing** and **Artificial Intelligence** at Pusan National University.
+Hello!👋 My name is Junyoung Park, and I am a *researcher* in the *Electronixs and Telecommunications Research Institution(ETRI)*.
+I worked with *Prof.Ilkyu EOM* at *[ISPL (Image Signal Processing Lab)](https://sites.google.com/view/ispl-pnu/)*, and I have a M.S and Ph.D. in **image processing** and **Artificial Intelligence** at Pusan National University.
 
 My research interests are **image processing**, **computer vision**, **machine/deep learning**, and **artificial intelligence**.
 
@@ -26,7 +26,8 @@ Trough my work, I want to contribute to showing people a brighter 👀, brighter
 ---
 
 ## News
-
+- **[Mar. 2026]** Our paper about FCA is accepted to Symmetry.
+- **[Jan. 2026]** Join ETRI.
 - **[Nov. 2025]** Our paper about contrast-aware is accepted to IEEE Access.
 - **[Oct. 2025]** Our paper about low-light with LSTM is submitted to EAAI.
 - **[Oct. 2025]** Our paper about low-light wiht Frequency Attention(FCA) is submitted to PR.
